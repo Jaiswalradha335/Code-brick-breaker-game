@@ -1,1 +1,1 @@
-This is 
+This is small code brick breaker game
